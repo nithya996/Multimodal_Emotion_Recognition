@@ -337,6 +337,12 @@ Recommended GPU:
 
 ---
 
+# Drive Link
+
+https://drive.google.com/drive/folders/10UrcOIp8l2AyX8YoquXTE11Mz13hAHqg
+
+---
+
 # Author
 
 Nithya
